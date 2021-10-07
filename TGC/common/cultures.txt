@@ -944,8 +944,19 @@
 		}
 		han_chinese = {
 			color = { 145 30 30 }
-			first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu }
-			last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian Jiang Wei Ting Shen Fang Jin Qiu }
+			first_names = { Wang Li Zhang Liu Chen Yang Huang Zhao Wu Zhou Xu Sun Ma Zhu Hu Guo He Lin Gao Luo 
+				Zheng Liang Mao Song Tang Xu Deng Han Feng Cao Pen Zeng Xiao Tian Dong Pan Yuan Kai Jiang Yu
+				Du Ye Cheng Wei Su Lu Ding Ren Lu Yao Sheng Zhong Cui Tan Fan Liao Shi Jin Jia Xia
+				Fu Fang Zou Xiong Bai Meng Qin Qui Hou Yin Xue Yan Duan Lei Long Hao Gu Gong Shao Wan
+				Ou Mo Kong Xiang
+			}
+			
+			last_names = { Kun Diaoyuan Jitang Qian Yuxiang Yingqin Zongren Xiang Zheyuan Shengzhi Peifu Xishan Xueliang Peide Chongxi Cheng Zuoyi Zhutong Fuju Chengjun
+				Jian Dingwen Liejun Zhenhua Zhi Yun Chen Lianzhing Fulin Lihuang Yongchang Yuanquan Yue Aiyuan Yi Xihou Yaozu Shaohong Xuchu Deyao
+				Pingxian Jianxu Wenhui Xing Han Zhinglin Chao Hongkui Wenhua Dajun Zhen Shizun Lingji Shuchang Zuanxu Wei Shihui Jie Sen Hanmou Fakui Zhijiang
+				Duxiu Guotao Da Hesen Zedong Zhanglong Pingshan Shuzi Qiubai Enlai Zhaozheng Tailei Lisan Ying Zhongfa Xiangying Shaoqi Biwu Di Jianying
+				Shangkun Zemin Jintao Jinping Ziyang Peng Rongji Jiabo Keqiang Chia-kan Ching-kuo Teng-hui Shui-bian Ying-jeou Shaoyi Bingjun Xiling Baoqi
+			}
 		}
 		beifaren = {
 			color = { 145 30 30 }
