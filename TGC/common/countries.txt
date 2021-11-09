@@ -245,6 +245,7 @@
 		HUI		= "countries/Anhui.txt"
 		IMG		= "countries/Inner Mongolia.txt"
 		KMT		= "countries/Nationalist China.txt"
+		KSH		= "countries/Kashgar.txt"
 		KOR		= "countries/Korea.txt"
 		MCK		= "countries/Manchukuo.txt"
 		MGL		= "countries/Mongolia.txt"

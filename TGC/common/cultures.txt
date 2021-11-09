@@ -970,8 +970,12 @@
 		}
 		hanhui = {
 			color = { 255 230 230 }
-			first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu }
-			last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian Jiang Wei Ting Shen Fang Jin Qiu }
+			first_names = { Ma Mu Han Ha Hu Sai Sha Zheng Guo Cai Na Su La Ding Bai Cai Du Pai Dong Gao Sa Su Wu }
+			last_names = { Chongxi Shouyu Guoqing Ming Jianbin Chun Fuxiang Hongbo Jin Mingfeng Liangyu Songshan Xiochen
+				Xin Landi Liu Hui Zhi Dexin Anliang Zhanshan Dunjing Fulu Fushou Fuyuan Guoliang Haiyan Hongbing Tingxian
+				Hongkui Hushan Bufang Jiyuan Buqing Qi Lin Zhan'ao Bukang Buluan Buying Zhongying Suiliang Tingxiang Tingbin
+				Jieqin Fucai Dunhou Dunren Fuxing Chiang-liang Haiyuan Bao Guzhong Yuanxiang Burong Zhenwu Xuyuan Weiguo Biao Zizhen
+			}
 		}
 		hakka = {
 			color = { 89 63 24 }
